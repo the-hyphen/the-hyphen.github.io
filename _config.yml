@@ -1,0 +1,63 @@
+# Build settings
+markdown: redcarpet
+highlighter: rouge
+
+# Site settings
+title: "stephen ra"
+description: > # this means to ignore newlines until "email:"
+    almost certainly not a markov chain.
+   
+
+url: http://stephenra.github.io
+
+email: stephenrra@gmail.com
+#blog logo
+logo: "/assets/images/df_logo.png"
+# blog cover
+cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2-MTN.jpg"
+
+name: 'stephen ra'
+author: 'stephen ra'
+author_image: "/assets/images/author.jpg"
+
+paginate:	5
+paginate_path: "/blog/page:num"
+permalink: /:categories/:year/:month/:day/:title 
+
+# social icons and sharing options
+social:
+  - icon:	twitter
+    url:	https://twitter.com/stephenrra
+    desc: Follow me on twitter
+    share_url: http://twitter.com/share
+    share_title: ?text=
+    share_link: "&url="
+
+  - icon:	facebook
+    url:	
+    desc: 
+    share_url: http://www.facebook.com/sharer.php
+    share_title: ?t=
+    share_link: "&amp;u="
+
+  - icon:	github
+    url:	https://github.com/stephenra
+    desc:	Fork me on github
+    share_url:
+    share_title:
+    share_link:
+
+  - icon:	google-plus
+    url:	
+    desc:	
+    share_url:
+    share_title:
+    share_link:
+
+  - icon: linkedin
+    url:  https://www.linkedin.com/in/stephenrra
+    desc: Connect with me on linkedin
+    share_url:
+    share_title:
+    share_link:    
+  
