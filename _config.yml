@@ -1,63 +1,68 @@
-# Build settings
-markdown: redcarpet
-highlighter: rouge
+# Welcome to Jekyll!
+#
 
 # Site settings
-title: "stephen ra"
-description: > # this means to ignore newlines until "email:"
-    
-   
-
-url: http://stephenra.github.io
-
+title: stephen ra
+description: |
+  data scientist
+owner: stephen ra # or company name
+first_published: 2016 # if migrating another site, the year of your first publish
 email: stephenrra@gmail.com
-#blog logo
-logo: "/assets/images/df_logo.png"
-# blog cover
-cover: "/assets/images/storm.jpg"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://stephenra.github.io" # the base hostname & protocol for your site
 
-name: 'stephen ra'
-author: 'stephen ra'
-author_image: "/assets/images/author.jpg"
+#############
+# HTML Head #
+#############
 
-paginate:	5
-paginate_path: "/blog/page:num"
-permalink: /:categories/:year/:month/:day/:title 
+lang: "en"
+author: "stephen ra"
+keywords: "stephen, ra, personal, data, scientist"
+favicon: "/images/favicon.ico"
 
-# social icons and sharing options
+
 social:
-  - icon:	twitter
-    url:	https://twitter.com/stephenrra
-    desc: Follow me on twitter
-    share_url: http://twitter.com/share
-    share_title: ?text=
-    share_link: "&url="
+  twitter: https://twitter.com/stephenrra
+  github: https://github.com/stephenra
+  linkedin-square: https://linkedin.com/in/stephenrra
+  #facebook-official: https://facebook.com/<username>
+  #google-plus-square: https://plus.google.com/u/0/+<username>
+  email: /contact/
+  #flickr:
+  #instagram:
+  #youtube-square:
+  #spotify:
+  #stack-overflow:
+  #vimeo:
+  #reddit:
+  #stubleupon:
+  #delicious:
+  #pied-piper:
+  #digg:
+  #soundcloud:
+  #deviantart:
+  #angellist:
+  #tumblr-square:
+  #stackexchange:
+  #weibo:
+  #trello:
+  #foursquare:
+  #linux:
+  #bitbucket-square:
+  #vk:
+  #slack:
+  #vine:
+  #weixin:
+  #yelp:
+  #skyatlas:
+  #leanpub:
+  #connectdevelop:
+  #ils:
+  #forumbee:
+  #tripadvisor:
+  #amazon:
 
-  - icon:	facebook
-    url:	
-    desc: 
-    share_url: http://www.facebook.com/sharer.php
-    share_title: ?t=
-    share_link: "&amp;u="
-
-  - icon:	github
-    url:	https://github.com/stephenra
-    desc:	Fork me on github
-    share_url:
-    share_title:
-    share_link:
-
-  - icon:	google-plus
-    url:	
-    desc:	
-    share_url:
-    share_title:
-    share_link:
-
-  - icon: linkedin
-    url:  https://www.linkedin.com/in/stephenrra
-    desc: Connect with me on linkedin
-    share_url:
-    share_title:
-    share_link:    
-  
+# Build settings
+markdown: kramdown
+#sass:
+#  style: compressed
