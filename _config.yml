@@ -7,7 +7,7 @@ description: |
   data scientist
 owner: stephen ra # or company name
 first_published: 2016 # if migrating another site, the year of your first publish
-email: stephenrra@gmail.com
+email: hello@stephenra.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://stephenra.github.io" # the base hostname & protocol for your site
 
