@@ -2,29 +2,29 @@
 #
 
 # Site settings
-title: stephen ra
+title: the hyphen
 description: |
-  data scientist
-owner: stephen ra # or company name
+  coming soon
+owner: kimberly wang # or company name
 first_published: 2016 # if migrating another site, the year of your first publish
-email: hello@stephenra.com
+email: contact@thehyphen.io
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://stephenra.github.io" # the base hostname & protocol for your site
+url: "https://the-hyphen.github.io" # the base hostname & protocol for your site
 
 #############
 # HTML Head #
 #############
 
 lang: "en"
-author: "stephen ra"
-keywords: "stephen, ra, personal, data, scientist"
+author: "kimberly wang"
+keywords: "kimberly, wang, writer, asian, american, asian-american, culture, issues, social, lifestyle, women"
 favicon: "/images/favicon.ico"
 
 
 social:
-  twitter: https://twitter.com/stephenrra
-  github: https://github.com/stephenra
-  linkedin-square: https://linkedin.com/in/stephenrra
+  twitter: https://twitter.com/_thehyphen
+  github: https://github.com/the-hyphen
+  linkedin-square: https://linkedin.com/in/
   #facebook-official: https://facebook.com/<username>
   #google-plus-square: https://plus.google.com/u/0/+<username>
   email: /contact/
